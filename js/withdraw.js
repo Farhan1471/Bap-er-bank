@@ -31,7 +31,7 @@ document.getElementById("btn-withdraw").addEventListener('click', function(){
 
         
      if(newWithdrawAmount > previousBalanceTotal){
-        alert('baap er bank a ato taka nai');
+        alert('Sudanir fua bank a rakhchos ato taka?');
         return;
      }
  
